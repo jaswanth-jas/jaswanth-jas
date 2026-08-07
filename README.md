@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Jaswanth+A+%F0%9F%91%8B;Java+%7C+Web+Developer;UI%2FUX+Enthusiast;Video+%26+Photo+Editor;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Jaswanth+A+%F0%9F%91%8B;ECE+Student+%7C+Future+Engineer;Java+%7C+Web+Developer;UI%2FUX+Enthusiast;Video+%26+Photo+Editor;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,31 +7,33 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="450">
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-```java
+\`\`\`java
 public class Jaswanth {
-    private String role = "B.E - ECE Student";
+    private String degree   = "B.E - Electronics & Communication Engineering";
+    private String batch    = "2024 - 2028";
     private String[] currentlyLearning = {"Java", "Web Development", "UI/UX Design"};
     private String[] hobbies = {"Video Editing", "Photo Editing", "Designing"};
     private boolean isLearning = true;
 
     public static void main(String[] args) {
-        System.out.println("Turning ideas into interfaces & code! 💻🎨");
+        System.out.println("From circuits to code — building things that work and look good! ⚡💻🎨");
     }
 }
-```
+\`\`\`
 
-- 🔭 I'm currently learning **Java** and **Web Development**
-- 🎨 I also explore **UI/UX Design** to make things look and feel great
+- 🎓 B.E - ECE student, Batch **2024 – 2028**
+- 🔭 Currently learning **Java** and **Web Development**
+- 🎨 Exploring **UI/UX Design** to make things look and feel great
 - 🎬 I enjoy **editing videos & images** in my free time
+- ⚡ Bridging **electronics fundamentals** with **software & design skills**
 - 🌱 Constantly upgrading my skills — a lifelong learner
-- ⚡ Fun fact: Good design + clean code = happy users!
 
 ---
 
@@ -63,23 +65,7 @@ public class Jaswanth {
 
 ---
 
-### 🎬 Currently Vibing With
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVe/giphy.gif" width="400">
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🎯 Currently Focused On
+### 🎯 What I'm Focused On
 
 <table align="center">
   <tr>
@@ -87,18 +73,20 @@ public class Jaswanth {
     <td align="center">🌐<br><b>Web Dev</b><br><sub>HTML · CSS · JS</sub></td>
     <td align="center">🎨<br><b>UI/UX</b><br><sub>Figma & Wireframes</sub></td>
     <td align="center">🎬<br><b>Editing</b><br><sub>Video & Photo</sub></td>
+    <td align="center">⚡<br><b>ECE Core</b><br><sub>Circuits & Communication</sub></td>
   </tr>
 </table>
 
 ---
 
-### 🐍 Contribution Snake
+### 🏅 Milestones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://img.shields.io/badge/🎓_Pursuing-B.E._ECE-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Learning-Java_&_Web_Dev-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨_Building-UI%2FUX_Skills-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎬_Creating-Video_&_Photo_Edits-1f2937?style=for-the-badge" />
 </p>
-
-<sub align="center">*(This snake animates automatically once you add a GitHub Action to your repo — ask me and I'll set it up!)*</sub>
 
 ---
 
@@ -117,10 +105,6 @@ public class Jaswanth {
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
