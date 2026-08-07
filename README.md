@@ -54,25 +54,19 @@ public class Jaswanth {
 ### 📈 Skill Levels
 
 <p align="center">
-
-**Java** `████████████░░░░░░░░` 60%
-**HTML / CSS** `██████████████████░░` 90%
-**JavaScript** `████████████░░░░░░░░` 60%
-**UI / UX (Figma)** `██████████████░░░░░░` 70%
-**Video / Photo Editing** `████████████████░░░░` 80%
-
+  <img src="https://progress-bar.dev/60/?title=Java&width=280&color=f89820&scale=100" /><br>
+  <img src="https://progress-bar.dev/90/?title=HTML+%2F+CSS&width=280&color=e34c26&scale=100" /><br>
+  <img src="https://progress-bar.dev/60/?title=JavaScript&width=280&color=f0db4f&scale=100" /><br>
+  <img src="https://progress-bar.dev/70/?title=UI+%2F+UX+(Figma)&width=280&color=a259ff&scale=100" /><br>
+  <img src="https://progress-bar.dev/80/?title=Video+%2F+Photo+Editing&width=280&color=00c2ff&scale=100" />
 </p>
 
 ---
 
-### 🕹️ Just for Fun
+### 🎬 Currently Vibing With
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Currently+Vibing+With&titleAlign=center&lineCount=1&line1=java%2Cjava%3B+html%2Chtml%3B+css%2Ccss%3B+figma%2Cfigma%3B&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVe/giphy.gif" width="400">
 </p>
 
 <p align="center">
