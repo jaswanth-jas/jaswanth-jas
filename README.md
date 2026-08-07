@@ -54,11 +54,11 @@ public class Jaswanth {
 ### 📈 Skill Levels
 
 <p align="center">
-  <img src="https://progress-bar.dev/60/?title=Java&width=280&color=f89820&scale=100" /><br>
-  <img src="https://progress-bar.dev/90/?title=HTML+%2F+CSS&width=280&color=e34c26&scale=100" /><br>
-  <img src="https://progress-bar.dev/60/?title=JavaScript&width=280&color=f0db4f&scale=100" /><br>
-  <img src="https://progress-bar.dev/70/?title=UI+%2F+UX+(Figma)&width=280&color=a259ff&scale=100" /><br>
-  <img src="https://progress-bar.dev/80/?title=Video+%2F+Photo+Editing&width=280&color=00c2ff&scale=100" />
+  <img src="https://img.shields.io/badge/Java-60%25-f89820?style=for-the-badge&logo=openjdk&logoColor=white" /><br><br>
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-90%25-e34c26?style=for-the-badge&logo=html5&logoColor=white" /><br><br>
+  <img src="https://img.shields.io/badge/JavaScript-60%25-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" /><br><br>
+  <img src="https://img.shields.io/badge/UI%2FUX%20(Figma)-70%25-a259ff?style=for-the-badge&logo=figma&logoColor=white" /><br><br>
+  <img src="https://img.shields.io/badge/Video%20%2F%20Photo%20Editing-80%25-00c2ff?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 </p>
 
 ---
@@ -67,10 +67,6 @@ public class Jaswanth {
 
 <p align="center">
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVe/giphy.gif" width="400">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" width="100%"/>
 </p>
 
 ---
