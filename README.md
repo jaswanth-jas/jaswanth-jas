@@ -16,9 +16,29 @@
 
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
+```bash
+jaswanth@ece-engineer ~ % neofetch
+
+       ╭──────────────╮
+       │   ⚡  JASWANTH │
+       ╰──────────────╯
+
+  Degree ........... B.E - Electronics & Communication
+  Batch ............ 2024 – 2028
+  Learning ......... Java, Web Development
+  Exploring ........ UI/UX Design (Figma)
+  Creating ......... Video & Photo Editing
+  Core Strength ..... Circuits + Code
+  Status ........... 🌱 Always Learning
+```
+
+<br>
+
+<details>
+<summary>⚡ <b>View as Java</b></summary>
+
 ```java
 public class Jaswanth {
-
     String   degree   = "B.E - ECE";
     String   batch    = "2024 - 2028";
     String[] learning = { "Java", "Web Dev", "UI/UX" };
@@ -26,36 +46,12 @@ public class Jaswanth {
     boolean  curious  = true;
 
     void main() {
-        System.out.println(
-          "From circuits to code — " +
-          "building things that work & look good ⚡"
-        );
+        System.out.println("From circuits to code — building things that work & look good ⚡");
     }
 }
 ```
 
-<br>
-
-<table>
-  <tr>
-    <td>🎓</td><td>B.E - ECE student &nbsp;·&nbsp; Batch <b>2024 – 2028</b></td>
-  </tr>
-  <tr>
-    <td>🔭</td><td>Currently learning <b>Java</b> and <b>Web Development</b></td>
-  </tr>
-  <tr>
-    <td>🎨</td><td>Exploring <b>UI/UX Design</b> to make things look and feel great</td>
-  </tr>
-  <tr>
-    <td>🎬</td><td>Editing <b>videos & images</b> in my free time</td>
-  </tr>
-  <tr>
-    <td>⚡</td><td>Bridging <b>electronics fundamentals</b> with <b>software & design</b></td>
-  </tr>
-  <tr>
-    <td>🌱</td><td>Constantly upgrading my skills — a lifelong learner</td>
-  </tr>
-</table>
+</details>
 
 <br clear="right"/>
 
