@@ -43,11 +43,32 @@ public class Jaswanth {
 
 ---
 
-### 📊 GitHub Stats
+### 💬 Quote of the Moment
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Skill Levels
+
+<p align="center">
+
+**Java** `████████████░░░░░░░░` 60%
+**HTML / CSS** `██████████████████░░` 90%
+**JavaScript** `████████████░░░░░░░░` 60%
+**UI / UX (Figma)** `██████████████░░░░░░` 70%
+**Video / Photo Editing** `████████████████░░░░` 80%
+
+</p>
+
+---
+
+### 🕹️ Just for Fun
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Currently+Vibing+With&titleAlign=center&lineCount=1&line1=java%2Cjava%3B+html%2Chtml%3B+css%2Ccss%3B+figma%2Cfigma%3B&theme=dark" />
 </p>
 
 <p align="center">
