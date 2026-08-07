@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" width="230" src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp&theme=dark">
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 ```bash
 jaswanth@ece-engineer ~ % neofetch
